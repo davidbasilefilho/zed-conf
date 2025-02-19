@@ -10,17 +10,20 @@
   "assistant": {
     "default_model": {
       "provider": "copilot_chat",
-      "model": "o1-preview"
+      "model": "o3-mini"
     },
     "version": "2"
   },
   "ui_font_size": 16,
+  "ui_font_family": "GeistMono Nerd Font",
+  "buffer_font_family": "GeistMono Nerd Font",
   "buffer_font_size": 16,
   "theme": {
     "mode": "dark",
     "light": "Catppuccin Macchiato",
     "dark": "Catppuccin Macchiato"
   },
+  "icon_theme": "Catppuccin Macchiato",
   "vim": {
     "use_multiline_find": true,
     "use_system_clipboard": "always",
