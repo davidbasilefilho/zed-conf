@@ -1,6 +1,6 @@
 {
   "features": {
-    "edit_prediction_provider": "zed"
+    "edit_prediction_provider": "copilot"
   },
   "telemetry": {
     "metrics": false,
@@ -15,6 +15,7 @@
   },
   "ui_font_size": 16,
   "buffer_font_size": 16,
+  "buffer_font_family": "JetBrainsMono Nerd Font",
   "theme": {
     "mode": "dark",
     "light": "Catppuccin Macchiato",
