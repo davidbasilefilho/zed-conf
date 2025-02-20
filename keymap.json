@@ -22,7 +22,9 @@
   {
     "bindings": {
       "ctrl-h": "project_panel::ToggleFocus",
-      "ctrl-l": "assistant::ToggleFocus"
+      "ctrl-l": "assistant::ToggleFocus",
+      "ctrl-r": "projects::OpenRecent",
+      "ctrl-o": "projects::OpenRemote"
     }
   }
 ]
