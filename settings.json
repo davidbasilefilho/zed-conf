@@ -1,6 +1,7 @@
 {
   "features": {
-    "edit_prediction_provider": "copilot"
+    "edit_prediction_provider": "copilot",
+    "copilot": true
   },
   "telemetry": {
     "metrics": false,
@@ -12,6 +13,11 @@
       "model": "o3-mini"
     },
     "version": "2"
+  },
+  "terminal": {
+    "shell": {
+      "program": "/home/basile/.nix-profile/bin/zsh"
+    }
   },
   "ui_font_size": 16,
   "ui_font_family": "JetBrainsMono Nerd Font",
